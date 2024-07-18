@@ -1,0 +1,7 @@
+---> Deploy Frontend to Netlify
+1.Push your code to GitHub.
+2.Create a Netlify account and create a new site linked to your GitHub repository.
+3.Configure build settings:
+4.Build command: npm run build
+5.Publish directory: dist
+6.Deploy the site from the Netlify dashboard.
