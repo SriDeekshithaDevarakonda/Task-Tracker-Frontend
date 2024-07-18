@@ -1,0 +1,9 @@
+//Implement Authentication Endpoints
+//Generate Auth and User modules, services, and controllers:
+
+nest g module auth
+nest g module user
+nest g service auth
+nest g service user
+nest g controller auth
+nest g controller user
